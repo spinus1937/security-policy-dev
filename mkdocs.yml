@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Polityka bezpieczeństwa IT w małej firmie
+
+nav:
+  - Strona główna: index.md
+  - O projekcie: authors.md
+  - Teoria: theory.md
+  - Przykłady: examples.md
+
+theme:
+  name: material
