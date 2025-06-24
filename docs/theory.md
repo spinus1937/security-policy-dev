@@ -22,3 +22,6 @@
 - Używaj aktualnego oprogramowania antywirusowego.
 - Aktualizuj systemy i aplikacje.
 
+## Zarządzanie ryzykiem
+
+Ważnym elementem polityki bezpieczeństwa jest identyfikacja i ocena ryzyka, a także planowanie działań prewencyjnych.
